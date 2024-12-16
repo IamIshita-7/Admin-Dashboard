@@ -52,6 +52,6 @@ Ensure you have the following installed on your machine:
 
 ### Glimpses of the Project
 
-![](./public/assets/screenshot(1).PNG)
-![](./public/assets/screenshot(2).PNG)
-![](./public/assets/screenshot(3).PNG)
+![](./public/assets/screenshot (1).PNG)
+![](./public/assets/screenshot (2).PNG)
+![](./public/assets/screenshot (3).PNG)
