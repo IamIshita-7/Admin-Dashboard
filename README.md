@@ -76,6 +76,8 @@ Ensure you have the following installed on your machine:
 
 ### Glimpses of the Project
 
-![](./public/assets/Screenshot (1).png)
-![](./public/assets/Screenshot (2).png)
-![](./public/assets/Screenshot (3).png)
+![](.\public\assets\Screenshot(1).png)
+
+![](.\public\assets\Screenshot(2).png)
+
+![](.\public\assets\Screenshot(3).png)
